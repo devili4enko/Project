@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project.Domain
 {
-    class EmptyInputException : Exception
+    public class EmptyInputException : Exception
     {
         public override string Message
         {

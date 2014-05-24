@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="EmptyInputException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingleMailSender.cs" />
     <Compile Include="TranslitWithXMLOptions.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
